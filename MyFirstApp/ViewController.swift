@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         
         ImageView.image = UIImage(named: "metallica4") // just added here
         // first app works.
+        // Can we add another button or another code column to come back first photo
     }
     
 }
